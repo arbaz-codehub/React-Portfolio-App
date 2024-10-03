@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-# Portfolio Website
+# React Portfolio Website
 
 ## Overview
 The Portfolio Website is a React-based project designed to showcase my skills, education, experience, and projects. The site utilizes various React hooks such as `useState`, `useEffect`, and `useRef` for state management and side effects. Additionally, it integrates the [AOS (Animate On Scroll)](https://michalsnik.github.io/aos/) library to provide smooth scroll animations, enhancing user experience. The website includes sections for education, work experience, a resume download button, and a dedicated projects section with links for live viewing and GitHub code access.
