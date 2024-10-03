@@ -73,4 +73,4 @@ The Portfolio Website is a React-based project designed to showcase my skills, e
 - Special thanks to the AOS library for providing beautiful scroll animations.
 
 ## Contact
-- For any inquiries, please reach out to your-email@example.com.
+- For any inquiries, please reach out to arbaz130803@example.com.
